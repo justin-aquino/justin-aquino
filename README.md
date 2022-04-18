@@ -10,6 +10,5 @@
 - 👯 I’m looking to collaborate on a speech-to-text app made for children with developmental delays.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My current end goal is to become an accessibility engineer so I can help make sure that everyone is included!
+- Best way to reach me is through: [LinkedIn](https://www.linkedin.com/in/justinaquino-dev/)
 
-
-#### [LinkedIn](https://www.linkedin.com/in/justinaquino-dev/)
