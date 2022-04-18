@@ -12,4 +12,4 @@
 - ⚡ Fun fact: My current end goal is to become an accessibility engineer so I can help make sure that everyone is included!
 
 
-#### (LinkedIn)[https://www.linkedin.com/in/justinaquino-dev/]
+#### [LinkedIn](https://www.linkedin.com/in/justinaquino-dev/)
