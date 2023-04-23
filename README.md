@@ -5,7 +5,7 @@
 
 ##### I am a proactive and dedicated individual with a background in restaurant management, desiring to utilize full-stack development skills. My tenacity for learning and creating led me to pursue a career in tech with hopes of transferring my creativity in making menus and recipes over to creating something inclusive, that may help with the collective advancement of human technology.
 
-- 🔭 I’m currently working on a11y cards, a CPACC Exam Preparation flashcards, built using React. I'm planning to make this a fullstack application, with multiple flashcards for CPACC and Section 508 Trusted Tester Exams.
+- 🔭 I’m currently working on a11y cards, a Netflix clone, made using Typescript, Next.js, Prisma, TailwindCSS, and MongoDB. 
 - 🌱 I’m currently learning using PostgreSQL instead of MongoDB for my fullstack apps.
 - 👯 I’m looking to collaborate on an app made for children with developmental delays and/or their primary caregivers.
 - 😄 Pronouns: She/Her
